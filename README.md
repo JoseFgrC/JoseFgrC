@@ -1,83 +1,62 @@
 <h1 align="center">Hola 👋 soy Jose / Backend Developer</h1>
-<h3 align="center">Especializado en Backend, APIs RESTful, Arquitectura y Bases de Datos</h3>
 
-<p align="center">
-  <a href="https://youtube.com/@TU_CANAL" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
-  <a href="https://www.tiktok.com/@TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://facebook.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-  <a href="mailto:tu-correo@ejemplo.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-</p>
+###
 
----
+<h5 align="left">Ingeniero de sistemas con foco fuerte en desarrollo backend.<br><br>- Especializado en diseno de APIs RESTful, logica de negocio y arquitectura escalable.<br>- Experiencia en Node.js, Laravel, Express y gestion de bases de datos relacionales.</h5>
 
-## Sobre mi
+###
 
-- Ingeniero de sistemas con foco fuerte en desarrollo backend.
-- Especializado en diseno de APIs RESTful, logica de negocio y arquitectura escalable.
-- Experiencia en Node.js, Laravel, Express y gestion de bases de datos relacionales.
-- Contacto: **tu-correo@ejemplo.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+</div>
 
----
+###
 
-## Tecnologias conocidas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,react,nodejs,express,laravel,mysql,docker" />
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/>
-  <img src="https://img.shields.io/badge/Expo%20Go-0D1117?style=for-the-badge&logo=expo&logoColor=white" alt="expo-go"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="sql-server"/>
-  <img src="https://img.shields.io/badge/APIs%20RESTful-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="apis-restful"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseFgrC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoseFgrC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JoseFgrC&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseFgrC&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="python"/>
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="php"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="mysql"/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="docker"/>
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseFgrC/JoseFgrC/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseFgrC/JoseFgrC/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseFgrC/JoseFgrC/output/pacman-contribution-graph.svg">
+</picture>
 
-## Dashboard GitHub
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&margin-w=15&row=1&column=6" />
-</p>
-
----
-
-## Proyectos destacados
-
-
-
----
-
-<p align="center"><i>Construyendo software escalable, seguro y mantenible.</i></p>
+###
